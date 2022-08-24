@@ -12,7 +12,7 @@ Install Power BI Desktop.
 <br> Here is the link with the instructions: https://youtu.be/D_Uq4K-BKBE
 <br> No programming or dashboard experience is required!
 
-# Here is our data:
+# San Diego Drinking Water public data:
 LINK CSV file
 
 https://data.sandiego.gov/datasets/drinkingwater-sample-sites/

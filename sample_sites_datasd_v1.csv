@@ -1,0 +1,158 @@
+site_ID,pressure_zone_name,pressure_zone_elevation,connections_count,location_description,lat,lng,frequency_sampled
+338 SYS,Liberty Station,175,228,2850 Wasp Way,32.7286527777778,-117.222875,Weekly
+66 SYS,Lower Del Mar Terrace,196,195,Via Cortina/Via Aprilia Sample Stanchion,32.9343305555556,-117.252688888889,Weekly
+322 SYS,Rosecrans,225,237,2305 1/2 Historic Decatur Rd,32.7338666666667,-117.217072222222,Weekly
+135 SYS,Principal Downtown,231,1565,Across from 1782 Newton Ave ,32.7012472222222,-117.147997222222,Weekly
+332 SYS,Principal Downtown,231,1565,1277 G St,32.7126972222222,-117.153008333333,Weekly
+324 SYS,Imperial,240,8,4393 Redworks Drwy  (Behind Health Care Training),32.7034444444445,-117.101961111111,Monthly
+219 SYS,La Jolla Sores,241,498,Across from 8415 El Paseo Grande,32.8591888888889,-117.255472222222,Weekly
+44 SYS,Point Loma (20),260,3924,Voltaire St/Ebers St; @ a Fire Station Sample Stanchion,32.7488666666667,-117.241744444444,Weekly
+43 SYS,Point Loma (37),260,1126,300 BLK of Rosecrans Sample Stanchion,32.7078555555556,-117.238925,Weekly
+301 SYS,Stallion Crossing,263,46,13782 Rosecroft Way,32.9694,-117.237972222222,Monthly
+48 SYS,La Jolla Towne,270,1240,Coast BL South/Eads Ave; Sample Stanchion,32.8457833333333,-117.277686111111,Weekly
+131 SYS,Otay Regulated,270,2426,East Park Ave/San Ysidro Blvd; Sample Stanchion,32.5527333333333,-117.044161111111,Weekly
+230 SYS,Rancho Santa Fe,284,156,Camto Mar De Plata & Camto Fortaleza,32.9831111111111,-117.246347222222,Weekly
+248 SYS,Floral Terrace,295,208,2360 Beryl St; Sample Stanchion,32.8089,-117.228680555556,Weekly
+321 SYS,Pacific Beach,307,8847,Haines St @ Felspar St.,32.8003861111111,-117.243008333333,Weekly
+341 SYS,Pacific Beach,307,8847,1840 Quiveira Way,32.7595166666667,-117.233597222222,Weekly
+249A SYS,Glidden,320,28,6429 Glidden St; Sample Stanchion,32.7760277777778,-117.179036111111,Monthly
+245 SYS,Del Mar Terrace,328,248,12935 Via Latina; Sample Stanchion,32.9346805555556,-117.247905555556,Weekly
+273 SYS,Archer,330,32,Dawes St & Archer St. (SE corner),32.8117055555556,-117.254088888889,Monthly
+229 SYS,Carmel Valley,330,1698,Carmel Park Dr/Del Mar Glen; Public School,32.940875,-117.229486111111,Weekly
+222A SYS,Torrey Pines,330,170,3550 Dunhill St,32.9031222222222,-117.229330555556,Weekly
+255 SYS,Pacifica,340,22,4949 Pacifica Dr; Sample Box,32.8112111111111,-117.222591666667,Monthly
+211 SYS,Princess Gardens,345,13,7228 Wembley St,32.8020583333333,-117.081797222222,Monthly
+201 SYS,Carmel View,346,540,1880 Smythe Ave; Sample Stanchion,32.5637722222222,-117.049469444444,Weekly
+209 SYS,Allied Gardens,355,1199,4605 Vandever Ave; (W.End or Public Park),32.7876222222222,-117.0956,Weekly
+258 SYS,Prestwick Estates,355,34,8455 Westway Dr,32.859875,-117.249994444444,Monthly
+265 SYS,Wabash Mesa,355,162,2023 Haller St.,32.7265222222222,-117.114383333333,Weekly
+239 SYS,Arnold Hills,358,48,1761 Petra Dr,32.7242777777778,-117.118388888889,Monthly
+330 SYS,Cornish Hill,360,31,775 Cornish Dr,32.7208,-117.253877777778,Monthly
+300 SYS,Dennery Ranch,365,178,5368 Topsail Dr,32.588625,-117.014955555556,Weekly
+216 SYS,La Jolla Hermosa,370,3100,5790 Chelsea Ave,32.8173555555556,-117.272613888889,Weekly
+259 SYS,Rodefer,370,78,3945 Alameda Dr; Sample Box,32.748825,-117.183794444444,Monthly
+253 SYS,Mar Villa,378,79,13200 Blk Caminito Mar Villa,32.9404194444444,-117.25775,Monthly
+306 SYS,Princess Del Sol,390,2150,1332 Kenalan Dr,32.5725166666667,-117.048952777778,Weekly
+173 SYS,University Heights (22),390,1864,Rancho Hills Dr/Reo Dr; @ Library/Sample Stanchion,32.6725055555556,-117.061258333333,Weekly
+53 SYS,University Heights (418),390,28905,2433 Denver St; Public School/Sample Stanchion,32.7875,-117.203688888889,Weekly
+138A SYS,University Heights (418),390,28905,4202 N.Harbor Dr & W.Spanish Landing Dr.,32.7287444444444,-117.210511111111,Weekly
+140 SYS,University Heights (418),390,28905,45th St/Imperial Ave; Sample Stanchion,32.7039916666667,-117.098086111111,Weekly
+174 SYS,University Heights (418),390,28905,3250 Camino Del Rio North; Sample Stanchion,32.7769583333333,-117.125505555556,Weekly
+333 SYS,University Heights (418),390,28905,1329 Gertrude St; Sample Stanchion,32.7725888888889,-117.201752777778,Weekly
+274 SYS,Ridgegate Reduced,425,44,Hillpointe Row & Carriage Dale Row,32.831775,-117.23455,Monthly
+275 SYS,Mission City,430,122,Old Quarry Rd @ Questor Pl,32.7866111111111,-117.128872222222,Weekly
+244 SYS,Del Mar Hills,435,396,13051 Portofino Dr; Sample Stanchion,32.9364944444444,-117.243575,Weekly
+303A SYS,Riviera Shores,440,4,1469 Riviera Shores St ,32.5715805555556,-117.037719444444,Monthly
+261 SYS,San Andress,440,134,Via Campestre & Camto Punta Arenas ,32.9845166666667,-117.244133333333,Weekly
+314 SYS ,So La Jolla Cliffs,447,35,8555 Ruette Monte Carlo,32.8619277777778,-117.250080555556,Monthly
+264 SYS,Tierrasanta Sur,450,292,10460 Viacha Dr; Sample Stanchion,32.81,-117.097094444444,Weekly
+206 SYS,Catalina,462,4348,1055 Catalina Blvd; @ Fire Station Sample Stanchion,32.7256055555556,-117.244572222222,Weekly
+215 SYS,Bay View,463,884,Across from 5105 Soledad Rd.,32.8115777777778,-117.240069444444,Weekly
+207 SYS,College Canyon,468,93,5485 Adobe Falls Rd; Sample Stanchion,32.7814138888889,-117.080983333333,Monthly
+278 SYS,Arroyo Sorrento,470,1220,Across from 3750 Torrey View Ct ,32.9209722222222,-117.233663888889,Weekly
+247A SYS,El Camino,470,1,9151 Rehco Rd; Sample Stanchion,32.8893611111111,-117.172325,Monthly
+286 SYS,Lusk Park (16),470,262,Between Reedley and Drakewood on open space area,32.9663277777778,-117.214130555556,Weekly
+221 SYS,Lusk Park (50),470,83,54551/2 Oberlin Dr,32.8915027777778,-117.199691666667,Monthly
+179 SYS,Lusk Park (81),470,3907,13075 Hartfield Ave @ Del Mar Heights,32.9563638888889,-117.230022222222,Weekly
+276A SYS,Lusk Park(24),470,94,5285 Setting Sun Way,32.9096861111111,-117.200544444444,Monthly
+277A SYS,Penasquitos Park VW,470,885,Across from 12241 Camino Del Sur,32.9419861111111,-117.151625,Weekly
+339 SYS,Pinnacle Zone,470,7,11911 Carmel Creek Rd,32.9347416666667,-117.226577777778,Monthly
+270A SYS,Rancho Del Sol,470,180,Rancho Del Sol Way & Rancho Del Azalea Way,32.9648888888889,-117.178341666667,Weekly
+342 SYS,Paraduse Hills #1,472,1863,2883 Keen Dr & Parkside Ave,32.6703444444444,-117.048013888889,Weekly
+204A SYS,Bay Terrace,490,195,2787 Alta View Drive,32.67575,-117.043105555556,Weekly
+200 SYS,So San Diego Resv,490,423, Otay Mesa Rd/Beyer Blvd,32.5591027777778,-117.040905555556,Weekly
+128 SYS,So San Diego Resv (65),490,423,Firethorn St/Palm Ave; Sample Stanchion,32.5838777777778,-117.039486111111,Weekly
+279 SYS,Carmel Country,495,245,10885 Cloverhurst ,32.9318055555556,-117.201652777778,Weekly
+251 SYS,La Jolla Mesa Vista,495,261,5840 Ravenswood Rd;,32.8184611111111,-117.263538888889,Weekly
+250 SYS,La Jolla Gardens,500,450,7474 Charmant Dr. Sample Stanchion,32.8654138888889,-117.228205555556,Weekly
+280 SYS,La Mirage,500,61,6542 Reflection Dr,32.7929694444444,-117.10775,Monthly
+213 SYS,Murphy Canyon,500,29,4455 Murphy Canyon Rd; Sample Stanchion,32.8249777777778,-117.119125,Monthly
+304 SYS,Black Mtn Ranch,520,167,14462 Garden Trail,32.9847055555556,-117.163833333333,Weekly
+153 SYS,Alvarado (100),536,4106,5552 Gala Avenue,32.7998722222222,-117.069916666667,Weekly
+60 SYS,Alvarado (181),536,29438,9th Ave & University Ave @ Fire Station,32.7485722222222,-117.156455555556,Weekly
+144 SYS,Alvarado (181),536,29438,Brookline & Date,32.7235194444444,-117.091444444444,Weekly
+148 SYS,Alvarado (181),536,29438,Upas & Richmond,32.7410722222222,-117.1511,Weekly
+285 SYS,Alvarado (35),536,541,Jamacha Rd and 68th St. (SE corner near playground of Boys Club),32.7104444444444,-117.051072222222,Weekly
+334 SYS,Alvarado (41),536,1464,6070 Division St,32.6944583333333,-117.067744444444,Weekly
+155 SYS,Normal Heights,536,5254,Adams & Marlborough,32.7629361111111,-117.106386111111,Weekly
+305 SYS,Remington Hills,543,251,4948 1/2 Carbine way,32.5647305555556,-117.033208333333,Weekly
+205 SYS,Hillsborough,550,442,1848 Manzana Way; Sample Stanchion,32.6873194444444,-117.023755555556,Weekly
+302 SYS,Riviera Del Sol,550,123,4610 Pacific Riviera Way,32.5703388888889,-117.03535,Weekly
+50A SYS,Northwest Mesa,559,33770,2693 Melbourne Dr.,32.7934305555556,-117.124922222222,Weekly
+52 SYS,Northwest Mesa,559,33770,MT. Abernathy Ave & Chateau Dr @ Library,32.8223527777778,-117.175144444444,Weekly
+55A SYS,Northwest Mesa,559,33770,5183 Arvinels Ave.,32.8400833333333,-117.175058333333,Weekly
+57 SYS,Northwest Mesa,559,33770,Idlewild way & Hidalgo Ave; @ Public School,32.8320777777778,-117.220747222222,Weekly
+287 SYS,Ridgegate La Jolla,575,67,Ridgegate Row & Abbotswoods,32.8304444444444,-117.238125,Monthly
+299 SYS,Robinhood Ridge,580,221,Avenida De Las Vistas / Vista San Rafael,32.5834555555556,-117.014111111111,Weekly
+256 SYS,Paradise Mesa #2,590,49,1808 Sea Star Way (Keyless Hose Bib on the enclosed backflow Preventer Cage),32.6853777777778,-117.056066666667,Monthly
+252A SYS,La Jolla Pacifica,594,458,Pacifica Dr and Soledad Mtn Road,32.8204194444444,-117.233411111111,Weekly
+59 SYS,Kearny Mesa,600,4758,La Cuenta Dr & Tierrasanta Blvd @ Fire station,32.8205722222222,-117.098622222222,Weekly
+78A SYS,Kearny Mesa,600,4758,6200 Calle Mariselda,32.8355638888889,-117.096575,Weekly
+257 SYS,Parkview,600,484,Across from 1565 Calle De Cinco,32.8193361111111,-117.247191666667,Weekly
+241SYS,Carroll Ridge,610,31,9440 Carroll Park Dr,32.8874916666667,-117.174091666667,Monthly
+176 SYS,North City (33),610,98,9896 Olson Dr; ,32.8858361111111,-117.194955555556,Monthly
+49A SYS,North City (412),610,3263,John J. Hopkins & General Atomic,32.8945722222222,-117.23975,Weekly
+309 SYS,North City (412),610,3263,4274 Campus Point Ct,32.8875444444444,-117.223841666667,Weekly
+65 SYS,North City (92),610,9700,El Amigo Rd & Durango Dr,32.9506222222222,-117.253152777778,Weekly
+317 SYS,North City (92),610,9700,12608 Spindle Top Dr,32.9510194444444,-117.136208333333,Weekly
+320 SYS,North City(48),610,320,12501 La Tortola Dr,32.945825,-117.1157,Weekly
+132 SYS,Paradise Mesa,610,13283,480 S. Meadowbrook Dr,32.697675,-117.026041666667,Weekly
+134A SYS,Paradise Mesa,610,13283,Herrick St & 65th  St,32.7111472222222,-117.057980555556,Weekly
+171 SYS,Paradise Mesa,610,13283,6541 Broadway,32.7157833333333,-117.057011111111,Weekly
+64 SYS,Mira Mesa,625,14681,11168 Avenida Del Gato & Zapata,32.9242722222222,-117.148222222222,Weekly
+223 SYS,Mira Mesa,625,14681,8441 New Salem St @ Fire Station,32.9156555555556,-117.142138888889,Weekly
+240 SYS,Carbrillo Palisades,635,45,3387 Kearny Villa Lane,32.8056138888889,-117.153483333333,Monthly
+150 SYS,Redwood  Village,645,9276,Acorn St & 62nd S t@ Fire Station,32.7606722222222,-117.063577777778,Weekly
+151A SYS,Redwood  Village,645,9276,4929 Catoctin Dr  Sample Stanchion,32.7676027777778,-117.05915,Weekly
+208A SYS,Del Cerro,656,1257,"Across from 6236 Wenrich Dr., in front of community park",32.7893666666667,-117.068197222222,Weekly
+67 SYS,Bernardo Oaks (51) ,680,2126,Pomerado Rd & Grandee Place,33.0117277777778,-117.060122222222,Weekly
+282 SYS,Bernardo Oaks(41),680,1824,18402 West Bernardo Dr. Stantion at a community Park,33.0176472222222,-117.073761111111,Weekly
+284 SYS,OTAY MESA,680,1404,Ocean View Hills Pkwy and Sea Drift Dr.,32.5771194444444,-117.023036111111,Weekly
+281 SYS,Monte Verde,685,652,6831 Monte Verde Dr,32.8123055555556,-117.048147222222,Weekly
+210 SYS,San Carlos Reduced,692,255,Across from 6619 Cibola Rd (Infront of a Park),32.8067694444444,-117.054377777778,Weekly
+177 SYS,Miramar ,712,5834,12350 Black Mountain Rd (Next the Rec Building),32.9422861111111,-117.130088888889,Weekly
+288 SYS,Miramar ,712,7485,Greenberg Way & Ganso Corte @ backflow preventer,32.9690388888889,-117.13665,Weekly
+294 SYS,Miramar ,712,14261,12195 Branicole St,32.9400722222222,-117.116244444444,Weekly
+295 SYS,Miramar ,712,4830,11305 Affinity Ct,32.9225888888889,-117.112091666667,Weekly
+315A SYS,Soledad Muirlands,725,2020, Across from 5494 Soledad Rd ,32.8190361111111,-117.240894444444,Weekly
+327 SYS,North Village,730,205,15625 New Park Terrace,33.0191555555556,-117.145422222222,Weekly
+268 SYS,Mercy High,750,53,9604 Babauta Rd,32.9379638888889,-117.120944444444,Monthly
+77A SYS,Tierrasnanta,752,1485,Palabra Circle,32.8241722222222,-117.079616666667,Weekly
+182 SYS,Tierrasnanta,752,1485,6475 Antigua,32.8367277777778,-117.090408333333,Weekly
+289 SYS,Rancho Bernardo (144),793,3394,Escala Dr & Camberwell Lane ,33.0451805555556,-117.063819444444,Weekly
+231 SYS,Rancho Bernardo (229) ,793,4557,Salmon River & Fairgrove Ln @ the Library,32.9578361111111,-117.121861111111,Weekly
+237 SYS,Bernardo Trails,800,1035,17910 Avenida Cordillera,33.04235,-117.051444444444,Weekly
+184 SYS,South Creek,815,538,12170 Springhurst Dr,32.9394611111111,-117.07415,Weekly
+152A SYS,San Carlos,849,6365,8571 Highwood Drive,32.8086305555556,-117.013772222222,Weekly
+212 SYS,San Carlos,849,6365,Rondel CT & Tuxedo Rd; @ Public Park,32.8090722222222,-117.046005555556,Weekly
+63A SYS,Scripps Valley,850,756,9930 Aviary Drive,32.9032166666667,-117.100902777778,Weekly
+336 SYS,Oaks North,865,21,17696 Montero Rd,33.0253194444444,-117.052713888889,Monthly
+307 SYS,Scripps Eastview,890,179,11455 East Ridge Place,32.9267444444444,-117.090625,Weekly
+185 SYS,Scripps Ranch North,890,1850,11198 Ivy Hill Dr,32.9361277777778,-117.090638888889,Weekly
+291 SYS,Scripps Mesa,892,46,Nob Hill Condos (10815),32.9159638888889,-117.108811111111,Monthly
+214 SYS,Tierrasanta Norte,900,503,4711 Seda Dr; (Between Via Dominique & Renovo Way),32.8260666666667,-117.078097222222,Weekly
+242 SYS,Climax,910,1138,7260 Barker Way,32.8132388888889,-117.017769444444,Weekly
+233 SYS,Carmel Mall,920,2379,12119 World Trade Dr @ a Fire Station,32.9831416666667,-117.073686111111,Weekly
+236 SYS,Carmel Mall,920,2379,15022 Avenida Venusto,32.9916694444444,-117.067813888889,Weekly
+68 SYS,Penasquitos,920,3158,Oviedo st & Black Mtn Rd,32.9688666666667,-117.128072222222,Weekly
+234A SYS,Penasquitos,920,3164,14300 Block Cuca St. ,32.9740027777778,-117.095880555556,Weekly
+235 SYS,Pomerado Park,920,1954,15855 Turtleback Rd,33.0053222222222,-117.08775,Weekly
+243 SYS,Country Casual,925,162,8709 Lake Athabaska Way,32.7991611111111,-117.010058333333,Weekly
+218 SYS,La Jolla Soledad W,925,504,2110 Via Casa Alta @ a Fire Station,32.8390166666667,-117.250430555556,Weekly
+323 SYS,Stockwood,925,28,11469 Stonecroft Terrace,32.9241972222222,-117.041991666667,Monthly
+262 SYS,San Carlos Estates,930,603,6669 Linda Lane,32.7845888888889,-117.052866666667,Weekly
+246 SYS,Eagle Ridge,940,78,7928 Wing Span Dr,32.8068472222222,-117.02845,Monthly
+326 SYS,Santa Luz,950,33,8555 1/2 Run of the Knolls Rd,32.9905722222222,-117.136197222222,Monthly
+313 SYS,Bernardo Heights,1020,1175,11602 Calle Paracho,33.0009833333333,-117.079180555556,Weekly
+224 SYS,Scripps Ranch (229),1020,3723,10054 Avenida Magnifica @ Public School,32.9075388888889,-117.084161111111,Weekly
+325 SYS,Scripps Ranch (229),1020,3882,Old Creek Rd and Whispering Ridge,32.9244916666667,-117.031655555556,Weekly
+318A SYS,Scripps Ranch (5),1020,96,Across from 11810 Trail Crest Dr,32.9319444444444,-117.104627777778,Monthly
+225 SYS,Sycamore Hills,1050,320,10314 Rue Chantemar,32.9062,-117.064952777778,Weekly
+316 SYS,Golf Course (11),1130,131,13705 Shoal Summit Dr,32.9657833333333,-117.076255555556,Weekly
+290 SYS,Golf Course (5),1130,36,14254 Breezeway Place Silver sample stanchion,32.9761583333333,-117.077663888889,Monthly
+329 SYS,Stonebridge,1135,129,14644 1/2 Old Creek Rd,32.9256805555556,-117.025783333333,Weekly
+283 SYS,Miramar Boosted,1150,769,Scripps Ranch wy & Spencerport (SW corner),32.9238,-117.099752777778,Weekly
+331 SYS,Scripps Ranch Boosted,1150,829,Across from 11705 Semillon Blvd.,32.9222694444444,-117.07655,Weekly
+226 SYS,Scripps Hills,1200,208,Meadowdale Lane & Walnutdale St,32.907125,-117.061513888889,Weekly
+328 SYS,Sycamore Estates,1250,112,14800 Stone Bridge Pkwy,32.9256638888889,-117.0201,Weekly
+319 SYS,Otay Mesa,N/A,,"1500 Wueste Rd, Chula Vista CA",32.6082861111111,-116.932341666667,Daily

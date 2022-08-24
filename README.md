@@ -11,3 +11,18 @@ Learn how to use Power BI,"an interactive data visualization software product de
 Install Power BI Desktop. 
 <br> Here is the link with the instructions: https://youtu.be/D_Uq4K-BKBE
 <br> No programming or dashboard experience is required!
+
+# Here is our data:
+LINK CSV file
+
+https://data.sandiego.gov/datasets/drinkingwater-sample-sites/
+
+Sample Sites: sample_sites_datasd_v1.csv
+
+https://data.sandiego.gov/datasets/monitoringof-indicator-bacteria-in-drinking-water/
+
+Latest Drinking Water Tests (Bacteria):
+latest_indicator_bac_tests_datasd_v1.csv
+
+All Drinking Water Tests (Bacteria):
+indicator_bacteria_tests_datasd_v1.csv

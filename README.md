@@ -14,11 +14,11 @@ Install Power BI Desktop.
 
 # San Diego Drinking Water public data:
 
-https://data.sandiego.gov/datasets/drinkingwater-sample-sites/
+https://data.sandiego.gov/datasets/drinking-water-sample-sites/
 
 Sample Sites: sample_sites_datasd_v1.csv
 
-https://data.sandiego.gov/datasets/monitoringof-indicator-bacteria-in-drinking-water/
+https://data.sandiego.gov/datasets/monitoring-of-indicator-bacteria-in-drinking-water/
 
 Latest Drinking Water Tests (Bacteria):
 latest_indicator_bac_tests_datasd_v1.csv

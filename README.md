@@ -1,4 +1,4 @@
-# Tutorial
+# Power BI Tutorial
 Learn how to use Power BI,"an interactive data visualization software product developed by Microsoft with primary focus on business intelligence" analyzing San Diego Drinking Water public data.
 
 # You will learn:
